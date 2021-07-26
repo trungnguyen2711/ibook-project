@@ -1,0 +1,117 @@
+@font-face {
+    font-family:rubik;
+    src: url(Rubik-Regular.ttf);
+}
+.body{font-family:rubik;}
+.menu{background-color: #FA9A02;
+    padding-top:40px;
+    padding-bottom:35px;}
+.logo{ margin-left:140px;  }
+.menu .congcu{text-decoration: none;
+    color:white;
+    font-size:20px;
+    margin-left:50px;
+    text-transform: bold;
+    font-weight: bold;}
+.menu .timkiem{text-decoration:none;
+    color:white;
+    border:1px solid white;
+    margin-left:201px;
+    padding-right:275px;
+    padding-left:20px;
+    font-size:15px;
+    padding-top:8px;
+    padding-bottom:8px;}
+.menu .icon{margin-left:20px;}
+.modau{display:flex;background-color:#FA9A02;height:650px;}
+.anh{position: relative;margin-top:-10px;
+width:1400px;
+margin-left:-135px;}
+.anh img{width:100%;
+    position:absolute;}
+.anh .anh1{margin-top:20px;}
+.noidung {width:50%;margin-top:122px;
+margin-left:-200px;}
+.noidung .chinh{color:white;text-decoration:none;
+font-size:100px;font-weight: bold;
+}
+.noidung .phu{color:#ffaf30;text-decoration:none;
+opacity:100%;
+font-size:100px;
+font-weight:bold;padding-left:33px;}
+.noidung p{font-size:60px;font-weight:bold;
+color:white}
+.noidung .gioithieu{font-size:23px;width:700px;opacity:70%;
+color:white;}
+.noidung img{width:30%;}
+.song{background-color:#FA9A02}
+.doinet{display:flex;}
+.doinet .trai{width:700px;margin-left:140px;}
+.doinet .trai .title{font-size: 70px;
+color: #E59413;
+
+font-weight: bold;
+width:700px;}
+.doinet .trai .gach{border-top: 11px solid #E59413;width:300px;margin-top:-20px;
+}
+.doinet .trai .nd{color:black;
+opacity:50%}
+.nut{background-color:#E59413;margin-top:30px;
+color:white;
+font-size:20px;
+font-weight:600;
+padding:13px 50px;
+width:252px;
+text-align:center;margin:auto;text-decoration:none;}
+.mag{margin-left:300px}
+.title2{font-size: 70px;margin-top:130px;text-align:right;padding-right:160px;
+color: #E59413;
+font-weight: bold;}
+.gach2{border-top: 11px solid #E59413;width:300px;margin-top:-20px;margin-left:1440px;}
+.bacot{display: flex;margin-top:100px;margin-left:150px;padding-bottom:100px;
+text-align: center;}
+.bacot .title3{font-size:25px;opacity:80%;
+font-weight:bold;
+margin-top:40px;}
+.bacot .nd2{width:460px;font-size:20px;opacity:30%;margin-bottom:20px;}
+.cot2{padding-left:100px;
+padding-right:100px;}
+.bacot .nut2{font-size:20px;border:2px solid #E59413;padding:5px 25px;width:200px;margin:auto;text-decoration: none;color:black;
+opacity:50%;margin-top:20px;}
+.title5{font-size: 70px;margin-left:140px;
+color: #E59413;
+font-weight: bold;margin-top:40px;
+width:900px;}
+ .gach5{border-top: 11px solid #E59413;width:300px;margin-top:-20px;margin-left:140px;margin-bottom:100px;}
+ .haicot{display: flex;margin-left:140px;}
+ .haicot .khung img{width:700px;}
+ .haicot .khung{border:2px solid #E59413;padding:20px;margin-bottom:30px;}
+ .title4{font-size:51px;
+ font-weight:bold;
+ opacity:50%;}
+ .tieude{opacity:70%;
+ font-size:40px;
+ font-weight:bold;
+ margin-top:10px;}
+ .luot{opacity: 55%;margin-top:-20px;
+font-size: 15px;}
+.khung .an1{margin-bottom:25px;;}
+.laibacot{display: flex;width:100%;
+}
+.avatar{position:absolute;margin-top:120px;}
+.avatar p{background-color:#E59413;width:398px;height:398px;border-radius:50%;opacity:11%;
+position:relative;}
+.avatar img{width:80%;position:relative;margin-top:-500px;}
+.cot{width:422px;margin-left:150px;}
+.ten{margin-top:620px;text-align:center;font-size:30px;opacity:70%;font-weight:bold;}
+.nghe{text-align:center;font-size:30px;opacity:30%;font-weight:bold;}
+.nd4{text-align:center;font-size:25px;opacity:30%;font-weight:500;}
+.het{display:flex;background:#141414;;padding-left:300px;padding-bottom:200px;;}
+.mot{margin-left:150px;font-size:12px;color:#7F7F7F;text-decoration:none;}
+.cuoi{background-color:#141414;color:#7F7F7F;margin-left:450px;
+font-size:12px;border:2px solid #7F7F7F;text-align:center;width:120px;margin-top:-149px;
+padding:15px 20px;text-decoration:none;}
+.icons{background:#141414;padding-top:20px;padding-left:427px;padding-bottom:20px;}
+.icons svg{margin-left:20px;}
+.cuoi:hover{color:black;background:white;}
+video{width:50%;margin-left:500px;margin-bottom:100px}
