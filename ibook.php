@@ -1,5 +1,5 @@
 <?php
 
-include_once("ibook.html");
+include_once("index.html");
 
 ?>
