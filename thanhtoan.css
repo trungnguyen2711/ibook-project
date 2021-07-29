@@ -1,0 +1,48 @@
+@font-face {
+    font-family:rubik;
+    src: url(SVN-RUBIK-REGULAR.TTF);}
+.menu{
+    background-color: #FA9A02;
+    width:100%;
+    font-family:rubik;
+    padding-top:40px;
+    padding-bottom:935px;
+    }
+.logo{ margin-left:140px;}
+.menu .congcu{text-decoration: none;width:10px;
+    color:white;
+    font-size:20px;
+    margin-left:50px;
+    text-transform: bold;
+    font-weight: bold;}
+.menu .timkiem{text-decoration:none;
+    color:white;
+    border:1px solid white;
+    margin-left:201px;
+    padding-right:75px;
+    padding-left:20px;
+    font-size:15px;
+    padding-top:8px;
+    padding-bottom:8px;
+    border-radius:30px;}
+.menu .icon{margin-left:35px;text-decoration: none;}
+.song{background-color:#FA9A02;width:100%;margin-top:-300px;}
+.khung{display:flex;width:1278px;height:688px;margin:auto;margin-top:-900px;background-color:white;border-radius:15px;
+    font-family:rubik;
+                box-shadow: 15px 10px 10px #61616159;}
+.khung .trai{width:38px;margin-left:52px;margin-right:20px;margin-top:42px;}
+.khung .trai svg{margin-top:70px;}
+.khung .giua{width:536px;margin-top:102px;margin-right:15px;opacity:84%;}
+.n1{margin-top:65px;}
+.n2{margin-top:78px;}
+.n3{margin-top:54px;}
+.n4{margin-top:28px;}
+.khung .phai{background-color:#FA9A02;width:589px;height:618px;margin-top:35px;border-radius:15px;}
+.goi{font-size:50px;font-weight:600;color:white;opacity:70%;margin:auto;width:220px;height:60px;margin-top:157px;}
+.gia{font-size:50px;font-weight:600;color:white;margin:auto;width:300px;height:60px;margin-top:15px;margin-bottom:36px;}
+.ke{border:2px solid white;width:521px;margin:auto;}
+.nd{font-size:20px;opacity:70%;width:506px;margin:auto;height:22px;padding-top:28px;padding-left:35px;}
+.dangky{width:521px;background-color:white;font-size:20px;font-weight:bold;text-align:center;margin:auto;
+margin-top:170px;border-radius:15px;padding-top:20px;padding-bottom:20px;}
+.cham{width:190px;margin:auto;margin-top:100px;}
+.cham2, cham1{margin-left:53px;margin-right:53px;text-decoration: none;}

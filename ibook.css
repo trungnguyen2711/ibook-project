@@ -4,8 +4,8 @@
 .menu{background-color: #FA9A02;width:100%;font-family:rubik;
     padding-top:40px;
     padding-bottom:35px;}
-.logo{ margin-left:140px;  }
-.menu .congcu{text-decoration: none;
+.logo{ margin-left:140px;}
+.menu .congcu{text-decoration: none;width:10px;
     color:white;
     font-size:20px;
     margin-left:50px;
@@ -15,13 +15,13 @@
     color:white;
     border:1px solid white;
     margin-left:201px;
-    padding-right:275px;
+    padding-right:75px;
     padding-left:20px;
     font-size:15px;
     padding-top:8px;
     padding-bottom:8px;
     border-radius:30px;}
-.menu .icon{margin-left:35px;}
+.menu .icon{margin-left:35px;text-decoration:none}
 .modau{display:flex;background-color:#FA9A02;height:650px;width:100%;font-family:rubik;}
 .anh{position: relative;margin-top:-10px;
 width:1400px;
@@ -41,7 +41,7 @@ font-weight:bold;padding-left:33px;}
 color:white}
 .noidung .gioithieu{font-size:25px;width:700px;opacity:70%;
 color:white;}
-.song{background-color:#FA9A02;width:1920.298px;height:384.095px;}
+.song{background-color:#FA9A02;width:100%;}
 .app{width:308px;margin-top:-600px;margin-left:52%;}
 .doinet{display:flex;font-family:rubik;}
 .doinet .trai{width:700px;margin-left:140px;}
@@ -54,7 +54,7 @@ width:700px;}
 }
 .doinet .trai .nd{color:black;
 opacity:50%}
-.nut{background-color:#E59413;margin-top:30px;border-radius:35px;
+.nut{background-color:#E59413;margin-top:30px;border-radius:15px;
 color:white;
 font-size:20px;
 font-weight:600;
@@ -112,6 +112,7 @@ padding:15px 20px;text-decoration:none;}
 .icons{background:#141414;padding-top:20px;padding-left:427px;padding-bottom:20px;}
 .icons svg{margin-left:20px;}
 .cuoi:hover{color:black;background:white;}
+.bo{text-decoration:none;}
 video{width:50%;margin-left:500px;margin-bottom:100px;}
 
 
@@ -121,11 +122,11 @@ video{width:50%;margin-left:500px;margin-bottom:100px;}
 {.menu{background-color: #FA9A02;width:100%;
     padding-top:40px;
     padding-bottom:35px;}
-.logo{ margin-left:40px;}
+.logo{ margin-left:20px;}
 .menu .congcu{text-decoration: none;
     color:white;
     font-size:12px;
-    margin-left:5px;
+    margin-left:4px;
     text-transform: bold;
     font-weight: bold;}
 .menu .timkiem{
@@ -140,7 +141,7 @@ video{width:50%;margin-left:500px;margin-bottom:100px;}
     padding-bottom:8px;
     border-radius: 15px;
     }
-.menu .icon{margin-left: 13px;}
+.menu .icon{margin-left: 13px;text-decoration:none;}
 .modau{display:flex;background-color:#FA9A02;height:300px;width:100%;flex-wrap: wrap;}
 .anh{position: relative;margin-top:-10px;
 width:800px;
@@ -159,8 +160,8 @@ font-weight:bold;padding-left:0px;}
 color:white}
 .noidung .gioithieu{font-size:15px;width: 470px;opacity:70%;margin-left:10px;color:white;}
 .song{background-color:#FA9A02;width:100%;padding-top:310px;}
-.app{width:150px;margin-top:-800px;margin-left:10px;padding-top:600px;margin}
-.doinet{display:flex;flex-wrap: wrap;margin-bottom:-100px;}
+.app{width:150px;margin-top:-800px;margin-left:10px;padding-top:600px;}
+.doinet{display: flex ;flex-wrap: wrap;margin-bottom:-100px;}
 .doinet .trai{width:490px;margin-left:0px;}
 .doinet .trai .title{font-size: 50px;margin-left:10px;
 color: #E59413;
@@ -227,4 +228,4 @@ padding:8px 15px;text-decoration:none;}
 .icons{background:#141414;padding-top:20px;padding-left:10px;padding-bottom:20px;}
 .icons svg{margin-left:5px;}
 .cuoi:hover{color:black;background:white;}
-video{width:100%;margin-left:0px;margin-bottom:20px;}}
+video{width:100%;margin-left:0px;margin-bottom:20px}}

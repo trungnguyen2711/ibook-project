@@ -1,0 +1,73 @@
+@font-face {
+    font-family:rubik;
+    src: url(SVN-RUBIK-REGULAR.TTF);}
+.app{width:100%;}
+.menu{
+    background-color: black;margin-top:-1070px;
+    width:100%;
+    font-family:rubik;
+    padding-top:40px;
+    padding-bottom:935px;
+    }
+.logo{ margin-left:140px;}
+.menu .congcu{text-decoration: none;width:10px;
+    color:white;
+    font-size:20px;
+    margin-left:50px;
+    font-weight: bold;}
+.menu .timkiem{text-decoration:none;opacity:60%;
+    color:white;
+    border:1px solid #FA9A02;
+    margin-left:201px;
+    padding-right:75px;
+    padding-left:20px;
+    font-size:15px;
+    padding-top:8px;
+    padding-bottom:8px;
+    border-radius:30px;}
+.menu .icon{margin-left:35px;text-decoration:none}
+.gioithieu{background-color:black;padding-left:100px;
+display:flex;width:100%;margin-top:-700px;padding-bottom:350px; font-family:rubik;}
+.trai{width:900px;}
+.phai{width:1000px;}
+.ten{font-size:50px;color:white;font-weight:bold;}
+.chuthich{font-size:50px;color:#dadada;font-weight:bold;opacity:30%;width:750px;}
+.nd{font-size:20px;color:#dadada;opacity:30%;width:760px;padding-bottom:30px;}
+.nuttrai{background-color:#E59413;border-radius:15px;
+color:white;
+font-size:20px;
+font-weight:400;
+padding:12px 30px;
+text-align:center;margin:auto;text-decoration:none;}
+.nutpahi{border:1px solid #E59413;border-radius:15px;
+color:white;
+font-size:20px;
+font-weight:400;
+padding:12px 40px;
+width:252px;
+text-align:center;margin:auto;text-decoration:none;}
+.tieude{font-family:rubik;padding-left:120px;font-size:40px;color:white;font-weight:bold;
+background-color:black;padding-top:30px;padding-bottom:12px;}
+.list{padding-left:100px;
+padding-right:120px;background-color:black;padding-top:20px;margin:auto;
+margin-top:-20px;width:100%;padding-bottom:100px;
+}
+.list img{border-radius:15px;width:15%;margin-left:16px;}
+.jack{height:343px;}
+.top{font-family:rubik;background-color:black;
+padding-top:20px;margin-top:-100px;display:flex;padding-left:100px;}
+
+.top p{text-decoration:none;font-size:400px;color:#8282825e;margin-left:00px;}
+.top img{margin-left:130px;margin-top:-700px;border-radius:15px;width:60%;}
+
+.final{padding-bottom:200px;}
+.het{display:flex;background:#141414;;padding-left:300px;padding-bottom:200px;font-family:rubik;}
+.mot{margin-left:150px;font-size:12px;color:#7F7F7F;text-decoration:none;}
+.cuoi{background-color:#141414;color:#7F7F7F;margin-left:450px;font-family:rubik;
+font-size:12px;border:2px solid #7F7F7F;text-align:center;width:120px;margin-top:-149px;
+padding:15px 20px;text-decoration:none;}
+.icons{background:#141414;padding-top:20px;padding-left:427px;padding-bottom:20px;}
+.icons svg{margin-left:20px;}
+.cuoi:hover{color:black;background:white;}
+.bo{text-decoration:none;}
+.first{margin-top: -100px;}
